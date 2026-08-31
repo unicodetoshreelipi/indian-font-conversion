@@ -36,6 +36,17 @@ DTP operators and publishers.
 - Character mapping
 - Unicode text processing
 
+## Who Is This Documentation For?
+
+This reference is useful for:
+
+- DTP operators working with legacy Indian fonts
+- Hindi and Marathi publishing workflows
+- Tamil DTP and Bamini users
+- Designers working with older documents
+- Developers handling Unicode and legacy text
+- Users migrating older DTP content to Unicode
+
 ## Unicode vs Legacy Fonts
 
 Unicode identifies characters using standardized code points,
